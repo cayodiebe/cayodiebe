@@ -1,16 +1,16 @@
-### Hi there 👋
+## Cayo Diebe - Desenvolvedor de Software
+ <div>
+  <a href="https://github.com/cayodiebe">
+  <center><img height="200em" src="https://github-readme-stats.vercel.app/api?username=cayodiebe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></center>
+  <center><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayodiebe&layout=compact&langs_count=7&theme=dracula"/></center>
+</div>
 
-<!--
-**cayodiebe/cayodiebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+  
+  <a href="https://instagram.com/cayodiebe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/strikerssm" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
-Here are some ideas to get you started:
+  <a href = "mailto:cayodiebe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cayodiebe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
